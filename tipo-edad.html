@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/tipo-reportes.css">
+    <link rel="shortcut icon" href="voae.ico" type="image/x-icon">
+    <title>Tipo Edades</title>
+</head>
+<body>
+    <nav class="navbar navbar-dark navbar-expand-sm" style="background: linear-gradient(270deg, rgba(0,44,158,1) 0%, rgba(0,42,92,1) 100%);">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburger">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div id="hamburger" class="collapse navbar-collapse justify-content-center">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link" href="home-doctor.php">Home</a>
+            <a class="nav-item nav-link active" href="reportes-doctor.php">Reportes</a>
+            <a class="nav-item nav-link" href="index.html">Cerrar Sesion</a>
+          </div>
+        </div>
+    </nav>
+    <div class="container d-flex text-center justify-content-center align-self-center mt-5">
+        <div>
+            <a href="reportes-doctor.php" style="position: absolute; left: 1rem; top: 5rem;">
+                <img style="width: 3rem; height: 3rem; " src="img/go-back.png">
+            </a>
+        </div>
+        <div class="reportes mt-5">
+            <h1 class="mb-5">Datos sobre Edades</h1>
+            <div class="report-item">
+                <h5>Datos de edades de pacientes en cantidad</h5>
+                <a class="report-btn" href="grafica-edades.php">Generar Reporte</a>
+            </div> 
+            <div class="report-item">
+                <h5>Datos de edades de pacientes en porcentaje</h5>
+                <a class="report-btn" href="grafica-por-edades.php">Generar Reporte</a>
+            </div> 
+        </div>
+    </div>
+    
+    <script src="js/tether.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

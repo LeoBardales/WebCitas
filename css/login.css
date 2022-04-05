@@ -1,0 +1,201 @@
+/* 
+Azul Oscuro - #002c9e 
+Naranja - #ffbf00
+Amarillo - #ffff00
+CampusAzul - #1967b1
+*/
+
+:root {
+    --darkblue: #002c9e;
+    --orange: #ffbf00;
+    --yellow: #ffff00;
+    --card-border-radius: 1rem;
+}
+
+html {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html, body, .container {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../img/fondo2.jpg');
+    background-image: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////// */
+
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 80%;
+    height: 60rem;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--card-border-radius) 0 0 var(--card-border-radius);
+    background-color: white;
+}
+
+#unah-logo {
+    min-width: 25rem;
+    width: 70%;
+    /* width: 88%; */
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 0 var(--card-border-radius) var(--card-border-radius) 0;
+    background-color: #ffffff;
+}
+
+form {
+    /* width:22.5rem; */
+    width: 57%;
+    min-width: 21.25rem;
+}
+
+form h2 {
+    margin: 2rem 0;
+    font-size: 2rem;
+}
+
+.input-div {
+    display: grid;
+    grid-template-columns: 7% 93%;
+    margin: 1.56rem 0;
+    padding: 0.31rem 0;
+    border-bottom: 2px solid black;
+}
+
+.input-div.two {
+    margin: 2rem 0;
+}
+
+.i i {
+    color: #d9d9d9;
+}
+
+.input-div > div {
+    position: relative;
+    height: 1.2rem;
+}
+
+.input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border: none;
+    outline: none;
+    background: none;
+    padding: 0.5rem 0.7rem;
+    font-size: 1rem;
+}
+
+#voae-logo {
+    /* width: 6.25rem; */
+    width: 28%;
+    min-width: 6rem;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    height: 3rem;
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+    border: none;
+    outline: none;
+    background-color: #1967b1;
+    cursor: pointer;
+    color: white;
+    font-size: 1rem;
+    
+}
+
+/* Media Queries */
+
+@media (max-width: 1060px){
+    .logo{
+        display: none;
+    }
+
+    .card{
+        display: block;
+        margin: 1rem;
+        align-items: center;
+    }
+
+    .login-container{
+        border-radius: var(--card-border-radius);
+        padding: 4rem;
+    }
+
+    .inputs {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media (max-height: 750px){
+    .card {
+        height: 96%;
+    }
+}
+
+/* @media (max-height: 540px){
+    .logo {
+        display: none;
+    }
+
+    .card {
+        display: flex;
+        width: 80rem;
+        height: 96%;
+    }
+
+    #voae-logo {
+        max-width: 3rem;
+    }
+
+    .login-container {
+        width: 100%;
+        min-height: 18rem;
+    }
+
+    .login-container form {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+    }
+
+    .input-div, .btn {
+        width: 21rem
+    }
+} */

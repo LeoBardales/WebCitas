@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/e0d61ff01e.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="shortcut icon" href="img/voae.ico" type="image/x-icon">
+    <title>SUDECAD UNAH-VS</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="logo">
+                <img id="unah-logo" src="img/unahvs-logo.png" alt="">
+            </div>
+            <div class="login-container">
+                <form method="post" action="authen_login.php">
+                    <div class="welcome">
+                        <img id="voae-logo" src="img/voae-logo.png" alt="" width="100px">
+                        <h2>Bienvenido</h2>
+                    </div>
+                    <div class="inputs">
+                        <div class="input-div one">
+                            <div class="i">
+                                <i class="fas fa-user"></i>
+                            </div>
+                            <div>
+                                <input type="email" class="input" placeholder="Nombre de Usuario / Correo Electrónico"
+                                    id="login-username" name="username">
+                            </div>
+                        </div>
+                        <div class="input-div two">
+                            <div class="i">
+                                <i class="fas fa-key"></i>
+                            </div>
+                            <div>
+                                <input type="password" class="input" placeholder="Contraseña" id="login-password"
+                                    name="password">
+                            </div>
+                        </div>
+                        <input type="submit" class="btn" value="Acceder">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

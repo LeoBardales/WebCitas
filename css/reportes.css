@@ -1,0 +1,238 @@
+:root {
+    --darkblue: #002c9e;
+    --orange: #ffbf00;
+    --yellow: #ffff00;
+    --card-border-radius: 1rem;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#sudecad-logo img{
+    width: 24rem; 
+    height: 10.25rem;
+}
+
+html, body{
+    height: 100%;
+}
+
+/* --------------------------------------------------------------------------- */
+
+p {
+    font-size: 1.3rem;
+}
+
+.print-button{
+    position: fixed; 
+    right: 4rem; 
+    bottom: 2rem;
+    z-index: 100;
+}
+
+.print-button img {
+    width: 3rem;
+}
+
+.print-button img:hover {
+    cursor: pointer;
+}
+
+.resultados {
+    margin: auto;
+    margin-top: 2rem;
+    width: 100%;
+}
+
+@media print
+{    
+    .no-print {
+        display: none !important;
+    }
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 2400px){
+    h1 {
+        font-size: 3.5rem;
+    }
+    h2 {
+        font-size: 2.3rem;
+    } 
+    p {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 2030px){
+    h1 {
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-size: 1.4rem;
+    }
+    p {
+        font-size: 1.5rem;
+    }
+      
+}
+
+@media (max-width: 1900px){
+    h1 {
+        font-size: 2.2rem;
+    }
+    h2 {
+        font-size: 1.7rem;
+    }  
+
+    h3 {
+        font-size: 1rem;
+    }
+    p {
+        font-size: 1.3rem;
+    }
+    td, th, #btnCancelar, #btnCompletar {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 1680px){
+    #unah-logo img {
+        width: 4.8rem;
+    }
+    #unah-logo h3{
+        font-size: 1.2rem;
+    }
+
+    #sudecad-logo img {
+        width: 12rem;
+        height: 5.125rem;
+    }
+
+    h3,p {
+        font-size: 1rem;
+    }
+    td, th, #btnCancelar, #btnCompletar {
+        font-size: 0.8rem;
+    }
+    
+}
+
+@media (max-width: 1560px){
+    h1 {
+        font-size: 1.9rem;
+    }
+    h2 {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 1410px){
+    h1 {
+        font-size: 1.7rem;
+    }
+    h2 {
+        font-size: 1.2rem;
+    }
+    td, th, #btnCancelar, #btnCompletar {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 1240px){
+    #unah-logo img {
+        width: 4rem;
+    }
+    #unah-logo h3{
+        font-size: .9rem;
+    }
+    #sudecad-logo img {
+        width: 8rem;
+        height: 3.42rem;
+    }
+    td, th, #btnCancelar, #btnCompletar {
+        font-size: .6rem;
+    }
+}
+
+@media (max-width: 1160px){
+    h1 {
+        font-size: 1.3rem;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+    h3 {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 950px){
+    #unah-logo img {
+        width: 3.6rem;
+    }
+    #unah-logo h3{
+        font-size: .9rem;
+    }
+    h1 {
+        font-size: 1.1rem;
+    }
+    h2 {
+        font-size: .9rem;
+    }
+    h3 {
+        font-size: .7rem;
+    }
+    td, th, #btnCancelar, #btnCompletar {
+        font-size: 0.5rem;
+    }
+}
+
+@media (max-width: 895px){
+    #unah-logo img {
+        width: 3.2rem;
+    }
+    #unah-logo h3{
+        font-size: .9rem;
+    }
+    h3,p {
+        font-size: 0.7rem;
+    }
+
+    td, th, #btnCancelar, #btnCompletar{
+        font-size: 0.4rem;
+    }
+}
+
+@media (max-width: 830px){
+    #unah-logo img, #unah-logo h3, #sudecad-logo img {
+        display: none;
+    }
+
+    h3,p {
+        text-align: center;
+        padding: .5rem;
+    }
+
+    /* td, th, #btnCancelar, #btnCompletar {
+        font-size: 0.5rem;
+    } */
+    .print-button {
+        position: fixed; 
+        right: .5rem; 
+        bottom: 2rem;
+        z-index: 100;
+    }
+
+    .print-button img {
+        width: 2rem;
+    }
+
+    .valor-pie p{
+        font-size: .7rem;
+    }
+}

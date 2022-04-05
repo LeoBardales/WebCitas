@@ -1,0 +1,191 @@
+Licenciatura en Derecho
+Licenciatura en Antropología
+Licenciatura en Periodismo
+Licenciatura en Psicología
+Licenciatura en Pedagogía
+Licenciatura en Trabajo Social
+Licenciatura en Historia
+Licenciatura en Letras
+Licenciatura en Filosofía
+Licenciatura en Sociología
+Licenciatura en Educación Física
+Licenciatura en Lenguas Extranjeras con Orientación en Inglés y Francés
+Licenciatura en Música
+Licenciatura en Desarrollo Local
+Ingeniería Civil
+Ingeniería Mecánica Industrial
+Ingeniería Eléctrica Industrial
+Ingeniería Industrial
+Ingeniería en Sistemas
+Arquitectura
+Licenciatura en Matemáticas
+Licenciatura en Física
+Licenciatura en Astronomía  y Astrofísica
+Licenciatura en Ciencia y Tecnologías de la Información Geográfica
+Medicina
+Odontología
+Licenciatura en Nutrición
+Química y Farmacia
+Enfermería
+Microbiología
+Licenciatura en Biología
+Licenciatura en Fonoaudiología
+Licenciatura en Administración y Generación de Empresas
+Licenciatura en Administración Pública
+Licenciatura en Economía
+Licenciatura en Contaduría Pública y Finanzas
+Licenciatura en Administración Aduanera
+Licenciatura en Administración de Banca y Finanzas
+Licenciatura en Comercio Internacional
+Licenciatura en Informatica Administrativa
+Licenciatura en Mercadotecnia
+Ingeniería Agronómica
+Ingeniería Forestal
+Ingeniería Agroindustrial
+Ingeniería en Ciencias Acuicolas y Recursos Marinos Costeros
+Licenciatura en Economía Agricola 
+Licenciatura en Ecoturismo
+Licenciatura en Comercio Internacional con Orientación en Agroindustria
+Técnico Universitario en Educación Básica para la Enseñanza del Español
+Técnico Universitario Metalurgia
+Técnico Universitario en Producción Agrícola
+Técnico Universitario en Terapia Funcional
+Técnico Universitario en Radiotecnologías (Radiología e Imágenes)
+Técnico Universitario en Microfinanzas
+Técnico Universitario en Alimentos y Bebidas
+Técnico Universitario en Calidad del Café
+Técnico Universitario en Administración de Empresas Cafetaleras 
+Técnico Universitario en Sistemas de Información Geografía con Énfasis en Catastro
+Técnico Universitario en Desarrollo Municipal
+Licenciatura en Administración de Empresas Agropecuarias 
+Licenciatura en Pedagogía
+Técnico Universitario en Microfinanzas
+Licenciatura en Ecoturismo
+Maestría en Forestería Comunitaria
+Maestría en Gestión del Riesgo y Manejo de Desastres
+Maestría en Matemática con orientación en Ingeniería Matemática y Estadística Matemática
+Maestría en Recursos Hídricos co orientación en Hidrogeología
+Maestría en Enfermedades Infecciosas y Zoonóticas
+Maestría en Física
+Maestría en Ordenamiento y Gestión del Territorio
+Maestría en Derecho Marítimo y Gestión Portuaria
+Maestría en Derecho Mercantil
+Maestría en Derechos Humanos y Desarrollo
+Maestría en Ciencia Política y Gestión Estatal
+Maestría en Derecho Constitucional
+Maestría en Derecho Penal y Procesal Penal
+Maestría en Farmacia Clínica
+Maestría en Tecnología y Control de Medicamentos
+Maestría en Demografía y Desarrollo
+Maestría en Estado y Políticas Públicas
+Maestría en Psicología Industrial y Organizacional
+Maestría en Administración de Empresas con Orientación a Finanzas y RRHH
+Maestría en Gestión Informática 
+Maestría en Gestión de Telecomunicaciones
+Maestría en Mercadotecnia con Énfasis en Negocios Internacionales
+Maestría en Dirección de Negocios Internacionales
+Maestría en Didáctica de Lenguas y Culturas
+Técnico  Universitario en Lengua de Señas
+Ingeniería Química
+Licenciatura en Geología
+Técnico Universitario en Tecnología de Alimentos
+Licenciatura en Química Industrial
+Técnico Universitario en Agroexportación
+
+
+<option value="">Elija la carrera</option>
+<option value="Licenciatura en Derecho">Licenciatura en Derecho</option>
+<option value="Licenciatura en Antropología">Licenciatura en Antropología</option>
+<option value="Licenciatura en Periodismo">Licenciatura en Periodismo</option>
+<option value="Licenciatura en Psicología">Licenciatura en Psicología</option>
+<option value="Licenciatura en Pedagogía">Licenciatura en Pedagogía</option>
+<option value="Licenciatura en Trabajo Social">Licenciatura en Trabajo Social</option>
+<option value="Licenciatura en Historia">Licenciatura en Historia</option>
+<option value="Licenciatura en Letras">Licenciatura en Letras</option>
+<option value="Licenciatura en Filosofía">Licenciatura en Filosofía</option>
+<option value="Licenciatura en Sociología">Licenciatura en Sociología</option>
+<option value="Licenciatura en Educación Física">Licenciatura en Educación Física</option>
+<option value="Licenciatura en Lenguas Extranjeras con Orientación en Inglés y Francés">Licenciatura en Lenguas Extranjeras con Orientación en Inglés y Francés</option>
+<option value="Licenciatura en Música">Licenciatura en Música</option>
+<option value="Licenciatura en Desarrollo Local">Licenciatura en Desarrollo Local</option>
+<option value="Ingeniería Civil">Ingeniería Civil</option>
+<option value="Ingeniería Mecánica Industrial">Ingeniería Mecánica Industrial</option>
+<option value="Ingeniería Eléctrica Industrial">Ingeniería Eléctrica Industrial</option>
+<option value="Ingeniería Industrial">Ingeniería Industrial</option>
+<option value="Ingeniería en Sistemas">Ingeniería en Sistemas</option>
+<option value="Arquitectura ">Arquitectura</option>
+<option value="Licenciatura en Matemáticas">Licenciatura en Matemáticas</option>
+<option value="Licenciatura en Física">Licenciatura en Física</option>
+<option value="Licenciatura en Astronomía  y Astrofísica">Licenciatura en Astronomía  y Astrofísica</option>
+<option value="Licenciatura en Ciencia y Tecnologías de la Información Geográfica">Licenciatura en Ciencia y Tecnologías de la Información Geográfica</option>
+<option value="Medicina">Medicina</option>
+<option value="Odontología">Odontología</option>
+<option value="Licenciatura en Nutrición">Licenciatura en Nutrición</option>
+<option value="Química y Farmacia">Química y Farmacia</option>
+<option value="Enfermería">Enfermería</option>
+<option value="Microbiología">Microbiología</option>
+<option value="Licenciatura en Biología">Licenciatura en Biología</option>
+<option value="Licenciatura en Fonoaudiología">Licenciatura en Fonoaudiología</option>
+<option value="Licenciatura en Administración y Generación de Empresas">Licenciatura en Administración y Generación de Empresas</option>
+<option value="Licenciatura en Administración Pública">Licenciatura en Administración Pública</option>
+<option value="Licenciatura en Economía">Licenciatura en Economía</option>
+<option value="Licenciatura en Contaduría Pública y Finanzas">Licenciatura en Contaduría Pública y Finanzas</option>
+<option value="Licenciatura en Administración Aduanera">Licenciatura en Administración Aduanera</option>
+<option value="Licenciatura en Administración de Banca y Finanzas">Licenciatura en Administración de Banca y Finanzas</option>
+<option value="Licenciatura en Comercio Internacional">Licenciatura en Comercio Internacional</option>
+<option value="Licenciatura en Informatica Administrativa">Licenciatura en Informatica Administrativa</option>
+<option value="Licenciatura en Mercadotecnia">Licenciatura en Mercadotecnia</option>
+<option value="Ingeniería Agronómica">Ingeniería Agronómica</option>
+<option value="Ingeniería Forestal">Ingeniería Forestal</option>
+<option value="Ingeniería Agroindustrial">Ingeniería Agroindustrial</option>
+<option value="Ingeniería en Ciencias Acuicolas y Recursos Marinos Costeros">Ingeniería en Ciencias Acuicolas y Recursos Marinos Costeros</option>
+<option value="Licenciatura en Economía Agricola ">Licenciatura en Economía Agricola </option>
+<option value="Licenciatura en Ecoturismo">Licenciatura en Ecoturismo</option>
+<option value="Licenciatura en Comercio Internacional con Orientación en Agroindustria">Licenciatura en Comercio Internacional con Orientación en Agroindustria</option>
+<option value="Técnico Universitario en Educación Básica para la Enseñanza del Español">Técnico Universitario en Educación Básica para la Enseñanza del Español</option>
+<option value="Técnico Universitario Metalurgia">Técnico Universitario Metalurgia</option>
+<option value="Técnico Universitario en Producción Agrícola">Técnico Universitario en Producción Agrícola</option>
+<option value="Técnico Universitario en Terapia Funcional">Técnico Universitario en Terapia Funcional</option>
+<option value="Técnico Universitario en Radiotecnologías (Radiología e Imágenes)">Técnico Universitario en Radiotecnologías (Radiología e Imágenes)</option>
+<option value="Técnico Universitario en Microfinanzas">Técnico Universitario en Microfinanzas</option>
+<option value="Técnico Universitario en Alimentos y Bebidas">Técnico Universitario en Alimentos y Bebidas</option>
+<option value="Técnico Universitario en Calidad del Café">Técnico Universitario en Calidad del Café</option>
+<option value="Técnico Universitario en Administración de Empresas Cafetaleras">Técnico Universitario en Administración de Empresas Cafetaleras </option>
+<option value="Técnico Universitario en Sistemas de Información Geografía con Énfasis en Catastro">Técnico Universitario en Sistemas de Información Geografía con Énfasis en Catastro</option>
+<option value="Técnico Universitario en Desarrollo Municipal">Técnico Universitario en Desarrollo Municipal</option>
+<option value="Licenciatura en Administración de Empresas Agropecuarias ">Licenciatura en Administración de Empresas Agropecuarias </option>
+<option value="Licenciatura en Pedagogía ">Licenciatura en Pedagogía</option>
+<option value="Técnico Universitario en Microfinanzas">Técnico Universitario en Microfinanzas</option>
+<option value="Licenciatura en Ecoturismo">Licenciatura en Ecoturismo</option>
+<option value="Maestría en Forestería Comunitaria">Maestría en Forestería Comunitaria</option>
+<option value="Maestría en Gestión del Riesgo y Manejo de Desastres">Maestría en Gestión del Riesgo y Manejo de Desastres</option>
+<option value="Maestría en Matemática con orientación en Ingeniería Matemática y Estadística Matemática">Maestría en Matemática con orientación en Ingeniería Matemática y Estadística Matemática</option>
+<option value="Maestría en Recursos Hídricos co orientación en Hidrogeología">Maestría en Recursos Hídricos co orientación en Hidrogeología</option>
+<option value="Maestría en Enfermedades Infecciosas y Zoonóticas">Maestría en Enfermedades Infecciosas y Zoonóticas</option>
+<option value="Maestría en Física">Maestría en Física</option>
+<option value="Maestría en Ordenamiento y Gestión del Territorio">Maestría en Ordenamiento y Gestión del Territorio</option>
+<option value="Maestría en Derecho Marítimo y Gestión Portuaria">Maestría en Derecho Marítimo y Gestión Portuaria</option>
+<option value="Maestría en Derecho Mercantil">Maestría en Derecho Mercantil</option>
+<option value="Maestría en Derechos Humanos y Desarrollo">Maestría en Derechos Humanos y Desarrollo</option>
+<option value="Maestría en Ciencia Política y Gestión Estatal">Maestría en Ciencia Política y Gestión Estatal</option>
+<option value="Maestría en Derecho Constitucional">Maestría en Derecho Constitucional</option>
+<option value="Maestría en Derecho Penal y Procesal Penal">Maestría en Derecho Penal y Procesal Penal</option>
+<option value="Maestría en Farmacia Clínica">Maestría en Farmacia Clínica</option>
+<option value="Maestría en Tecnología y Control de Medicamentos">Maestría en Tecnología y Control de Medicamentos</option>
+<option value="Maestría en Demografía y Desarrollo">Maestría en Demografía y Desarrollo</option>
+<option value="Maestría en Estado y Políticas Públicas">Maestría en Estado y Políticas Públicas</option>
+<option value="Maestría en Psicología Industrial y Organizacional">Maestría en Psicología Industrial y Organizacional</option>
+<option value="Maestría en Administración de Empresas con Orientación a Finanzas y RRHH">Maestría en Administración de Empresas con Orientación a Finanzas y RRHH</option>
+<option value="Maestría en Gestión Informática">Maestría en Gestión Informática </option>
+<option value="Maestría en Gestión de Telecomunicaciones">Maestría en Gestión de Telecomunicaciones</option>
+<option value="Maestría en Mercadotecnia con Énfasis en Negocios Internacionales">Maestría en Mercadotecnia con Énfasis en Negocios Internacionales</option>
+<option value="Maestría en Dirección de Negocios Internacionales">Maestría en Dirección de Negocios Internacionales</option>
+<option value="Maestría en Didáctica de Lenguas y Culturas">Maestría en Didáctica de Lenguas y Culturas</option>
+<option value="Técnico  Universitario en Lengua de Señas">Técnico  Universitario en Lengua de Señas</option>
+<option value="Ingeniería Química">Ingeniería Química</option>
+<option value="Licenciatura en Geología">Licenciatura en Geología</option>
+<option value="Técnico Universitario en Tecnología de Alimentos">Técnico Universitario en Tecnología de Alimentos</option>
+<option value="Licenciatura en Química Industrial">Licenciatura en Química Industrial</option>
+<option value="Técnico Universitario en Agroexportación">Técnico Universitario en Agroexportación</option>
+
+
